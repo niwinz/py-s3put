@@ -6,7 +6,9 @@
 Welcome to py-s3put's documentation!
 ====================================
 
-Scp like, backup tool for put files intro Amazon S3 cloud.
+It is a small script that allows a way very similar to scp, upload multiple 
+files to an Amazon S3 bucket. And like py-s3backup also has many options to 
+integrate in a simple backup scripts for example.
 
 .. toctree::
    :maxdepth: 2
