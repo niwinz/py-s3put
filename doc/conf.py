@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'py-s3pyt'
+project = u'py-s3put'
 copyright = u'2011, Andrei Antoukh'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -164,7 +164,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'py-s3pytdoc'
+htmlhelp_basename = 'py-s3putdoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -178,7 +178,7 @@ htmlhelp_basename = 'py-s3pytdoc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'py-s3pyt.tex', u'py-s3pyt Documentation',
+  ('index', 'py-s3put.tex', u'py-s3put Documentation',
    u'Andrei Antoukh', 'manual'),
 ]
 
@@ -211,6 +211,6 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'py-s3pyt', u'py-s3pyt Documentation',
+    ('index', 'py-s3put', u'py-s3put Documentation',
      [u'Andrei Antoukh'], 1)
 ]

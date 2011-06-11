@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to py-s3pyt's documentation!
+Welcome to py-s3put's documentation!
 ====================================
 
 Scp like, backup tool for put files intro Amazon S3 cloud.
